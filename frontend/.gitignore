@@ -34,3 +34,34 @@ coverage
 
 # Vitest
 __screenshots__/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+dist/
+build/
+.husky/
+.husky/
+.vite/
+
+# Другое
+.DS_Store
+.idea/
+.vscode/
+*.docx
+*.txt
+*.pdf
